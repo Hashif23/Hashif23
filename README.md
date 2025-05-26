@@ -9,12 +9,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Parisienne&size=45&letterSpacing=0.2rem&duration=2000&pause=1000&color=36BCF7FF&background=FFFFFF00&repeat=false&width=1000&height=70&lines=Experience+is+simply+the+name+we+give+our+mistakes" alt="Typing SVG" /></a></p>
 
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=435&lines=%F0%9F%8C%B1++I'M+CURRENTLY+LEARNING"  /p><br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Parisienne&weight=400&size=30&letterSpacing=4px&duration=2000&pause=1500&color=36BCF7FF&center=true&width=435&lines=Pentesting;Quantum+Computing"/p>
+<h3 align="center">
+🌱  I'M CURRENTLY LEARNING    </h3><br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Parisienne&weight=400&size=30&letterSpacing=4px&duration=2000&pause=1500&color=36BCF7FF&center=true&width=435&lines=Pentesting;Quantum+Computing"/p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=435&lines=%F0%9F%92%AC++ASK+ME+ABOUT"  /p><br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Parisienne&weight=400&size=30&letterSpacing=4px&duration=2000&pause=1500&color=36BCF7FF&center=true&width=435&lines=Ethical+Hacking;Quantum+Key+Distribution"/p>
+<h3 align="center">
+💬  ASK ME ABOUT     </h3><br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Parisienne&weight=400&size=30&letterSpacing=4px&duration=2000&pause=1500&color=36BCF7FF&center=true&width=435&lines=Ethical+Hacking;Quantum+Key+Distribution"/p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=435&lines=CONNECT+WITH+ME"  /p>
-  
+<h3 align="center">CONNECT WITH ME</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hashif-h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/linked-in-logo.png" alt="https://www.linkedin.com/in/hashif-h/" height="40" width="40" /></a> ㅤㅤ
 <a href="mailto:mohdhashif23@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/gmail%20zz.png" alt="mailto:mohdhashif23@gmail.com" height="40" width="40" /></a></p>
