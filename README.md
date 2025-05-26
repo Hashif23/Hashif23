@@ -20,8 +20,7 @@
 <a href="https://www.linkedin.com/in/hashif-h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/linked-in-logo.png" alt="https://www.linkedin.com/in/hashif-h/" height="40" width="40" /></a> ㅤㅤ
 <a href="mailto:mohdhashif23@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/gmail%20zz.png" alt="mailto:mohdhashif23@gmail.com" height="40" width="40" /></a></p>
 ㅤ
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=LANGUAGES+AND+TOOLS" /> </p>
-
+<h3 align="center">LANGUAGE AND TOOLS</h3>
 <p align = "center"><code><img height="27" src="https://github.com/user-attachments/assets/fba2cd45-a242-429e-9c4f-5d2713587917" alt="Java"></code>
 <code><img height="27" src="https://github.com/user-attachments/assets/709ea96d-c722-4552-a4f8-88fdc9ed6d5c" alt="git"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
