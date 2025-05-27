@@ -6,7 +6,7 @@
 
 
 <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Parisienne&size=45&letterSpacing=0.2rem&duration=2000&pause=1000&color=36BCF7FF&background=FFFFFF00&repeat=false&width=1000&height=70&lines=Experience+is+simply+the+name+we+give+our+mistakes" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Parisienne&size=45&duration=2&pause=10&background=0DFFDE00&vCenter=true&multiline=true&repeat=false&width=500&height=130&lines=Experience+is+simply+the+name;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8Ewe+give+our+mistakes." alt="Typing SVG" /></a></p>
 
 
 <h3 align="center">
